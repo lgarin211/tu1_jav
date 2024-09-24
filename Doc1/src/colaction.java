@@ -9,6 +9,13 @@ public class colaction {
     // randong 0-2
     public int random = (int) (Math.random() * 3);
 
+    public void readdataset() {
+        // read file from assets/list.txt
+        
+
+
+
+    }
 
     // hangman
     public String[] hangman = {"_","_","_","_","_","_","_","_","_","_"};
